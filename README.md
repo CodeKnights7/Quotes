@@ -12,7 +12,6 @@ Welcome to my Inspirational Quotes Website, where you'll find a daily dose of mo
 
 **Categories:** Explore quotes based on specific themes and categories. Whether you seek motivation, positivity, or success insights, the website provides a categorized approach to suit your mood and interests.
 
-**Shareable Content:** Share your favorite quotes with friends and family easily. The website allows seamless sharing on social media platforms, spreading the positivity and motivation to a broader audience.
 
 **Responsive Design:** Access the quotes anytime, anywhere, on any device. The website is designed to be responsive, providing an optimal viewing experience on desktops, tablets, and mobile devices.
 
@@ -26,7 +25,7 @@ Welcome to my Inspirational Quotes Website, where you'll find a daily dose of mo
 - Quotes API Integration
 
 
-- 
+  
 ![Capture-3](https://github.com/CodeKnights7/Quotes/assets/116157045/3bf4b5e0-b8d2-4a58-aa81-8ae10aafcb84)
 
 
